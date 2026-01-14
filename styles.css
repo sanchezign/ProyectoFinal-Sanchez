@@ -1,0 +1,36 @@
+/* styles.css - Estilos personalizados para el proyecto */
+
+body {
+  background-color: #f8f9fa;
+  font-family: 'Arial', sans-serif;
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: contain;
+  padding: 10px;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  transition: transform 0.3s ease;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
+
+.btn-danger {
+  border-radius: 50%;
+  padding: 5px 10px;
+}
+
+input[type="number"] {
+  width: 60px;
+  text-align: center;
+}
