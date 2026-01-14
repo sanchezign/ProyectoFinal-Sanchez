@@ -1,4 +1,4 @@
-// script.js - Lógica principal del simulador de Tienda Online
+// Lógica principal del simulador de Tienda Online
 
 // Variables globales
 let products = []; // Array dinámico de productos cargados desde API
