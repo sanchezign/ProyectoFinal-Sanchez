@@ -1,7 +1,7 @@
 # Proyecto Final - Tienda Online Simulada
 
 Proyecto final del curso de JavaScript en CoderHouse.  
-Simulador interactivo de Tienda Online que consume una API remota (Fake Store API), usa bibliotecas externas (Bootstrap para estilos, SweetAlert2 para alertas), e incorpora interactividad asíncrona con fetch, eventos y DOM manipulation. Cumple con todos los requisitos de la consigna: consumo de API, bibliotecas, asincronía, etc.
+Simulador interactivo de Tienda Online que consume una API remota (Fake Store API), usa bibliotecas externas (Bootstrap para estilos, SweetAlert2 para alertas), e incorpora interactividad asíncrona con fetch, eventos y DOM manipulation.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-blueviolet)  
@@ -58,6 +58,7 @@ Notas finales
     Si hay problemas con fetch (CORS), usa Live Server.
 
    
+
 
 
 
